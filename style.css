@@ -79,7 +79,7 @@ ul {
 }
 
 .perfil-1 {
-    background: url(/perfis/avatar1.png) no-repeat;
+    background: url(./perfis/avatar1.png) no-repeat;
     transform:scale(1.05);
     background-position: center;
     background-size: cover;
@@ -108,7 +108,7 @@ ul {
 }
 
 .perfil-2 {
-    background: url(/perfis/avatar2.png) no-repeat;
+    background: url(./perfis/avatar2.png) no-repeat;
     transform: scale(1.05);
     background-position: center;
     background-size: cover;
@@ -137,7 +137,7 @@ ul {
 }
 
 .perfil-3 {
-    background: url(/perfis/avatar3.png) no-repeat;
+    background: url(./perfis/avatar3.png) no-repeat;
     transform: scale(1.05);
     background-position: center;
     background-size: cover;
@@ -166,7 +166,7 @@ ul {
 }
 
 .perfil-4 {
-    background: url(/perfis/Frame\ 1.png) no-repeat;
+    background: url(./perfis/Frame\ 1.png) no-repeat;
     transform: scale(1.05);
     width: 160px;
     height: 160px;
@@ -186,7 +186,7 @@ ul {
 }
 
 .perfil-4:hover {
-    background: url(/perfis/Frame\ 2.png) no-repeat;
+    background: url(./perfis/Frame\ 2.png) no-repeat;
     background-position: center;
     background-size: cover;
 }
